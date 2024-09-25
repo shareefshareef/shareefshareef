@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shareefshareef
+- 👋 Hi, I’m Shareef
 - 👀 I’m interested in Django,DRF,Python,Web Scraping,AutoMation
 - 🌱 I’m currently learning AutoMation,web scraping
 - 📫 email : mahaboobshareef831@gmail.com
